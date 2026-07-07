@@ -3,14 +3,14 @@
     "d2r_launcher": {
       "latest_version": "0.0.1",
       "version_code": 2,
-      "download_url": "https://github.com/beg4/d2rTools_update/releases/tag/d2rLauncher_v0.0.1/d2rLauncher_v0.0.1.zip",
+      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rLauncher_v0.0.1/d2rLauncher_v0.0.1.rar",
       "update_log": "详见更新日志",
       "force_update": true,
       "min_version": "0.0.1"
     },
     "d2r_timer": {
       "latest_version": "0.0.9",
-      "download_url": "https://github.com/beg4/d2rTools_update/releases/tag/d2rTimer-v0.0.9/d2rTimer_v0.0.9.zip",
+      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rTimer_v0.0.9/d2rTimer_v0.0.9.rar",
       "update_log": "详见更新日志",
       "force_update": true,
       "min_version": "0.0.9"
