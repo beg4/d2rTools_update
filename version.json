@@ -1,9 +1,9 @@
 {
   "tools": {
     "d2r_launcher": {
-      "latest_version": "0.0.1",
-      "version_code": 1,
-      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rLauncher_v0.0.1/d2rLauncher_v0.0.1.rar",
+      "latest_version": "0.0.3",
+      "version_code": 3,
+      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rLauncher_v0.0.3/d2rLauncher_v0.0.3.rar",
       "update_log": "详见更新日志",
       "force_update": true,
       "min_version": "0.0.1"
