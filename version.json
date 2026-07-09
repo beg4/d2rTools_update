@@ -10,6 +10,7 @@
     },
     "d2r_timer": {
       "latest_version": "0.0.9",
+      "version_code": 9,
       "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rTimer_v0.0.9/d2rTimer_v0.0.9.rar",
       "update_log": "详见更新日志",
       "force_update": true,
