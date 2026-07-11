@@ -9,9 +9,9 @@
       "min_version": "0.0.1"
     },
     "d2r_timer": {
-      "latest_version": "0.1.1",
-      "version_code": 11,
-      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rTimer_v0.1.1/d2rTimer_v0.1.1.rar",
+      "latest_version": "0.1.2",
+      "version_code": 12,
+      "download_url": "https://github.com/beg4/d2rTools_update/releases/download/d2rTimer_v0.1.2/d2rTimer_v0.1.2.rar",
       "update_log": "详见更新日志",
       "force_update": true,
       "min_version": "0.0.9"
